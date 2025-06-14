@@ -44,8 +44,8 @@
 江西公共农业, http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
 江西少儿家庭, http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
 江西新闻频道, http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225576/2/index.m3u8?fmt=ts2hls
-萍乡综合频道, http://live02.jxtvcn.com.cn/live/ganyun_px_xwzh.m3u8
-萍乡公共频道, http://live02.jxtvcn.com.cn/live/ganyun_px_ggpd.m3u8
+萍乡综合频道, http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+萍乡公共频道, http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 莲花综合频道, http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
 赣州新闻综合, http://115.150.63.77:85/tsfile/live/0001_50.m3u8
 赣州公共, http://115.150.63.77:85/tsfile/live/0001_51.m3u8
@@ -65,7 +65,7 @@
 广丰综合, http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangfeng.m3u8
 铜鼓综合频道, http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
 万载综合频道, http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
-新余干综合，http://live02.jxtvcn.com.cn/live/ganyun_yugan.m3u8香港凤凰文旅香港频道，http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8文旅香港频无线星河频道，http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u无线娱乐频道香港凤凰文旅香港频道，http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8文旅香港频无线星河频道，http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u无线娱乐频道香港凤凰文旅香港频道，http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8文旅香港频无线星河频道，http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u无线娱乐频道
+新余干综合，http://live02.jxtvcn.com.cn/live/ganyun_yugan.m3u8香港凤凰文旅香港频道，http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8文旅香港频无线星河频道，http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u无线娱乐频道香港凤凰文旅香港频道，http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8文旅香港频无线星河频道，http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u无线娱乐频道香港凤凰文旅香港频道，http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8文旅香港频无线星河频道，http://v2h.jdshipin.com/xinghe/xinghe.stReam/chunklist.m3u无线娱乐频道
 
 
 
